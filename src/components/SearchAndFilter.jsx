@@ -34,7 +34,7 @@ export default function SearchAndFilter({
               className="pl-12 pr-8 py-3 bg-slate-700/50 border border-slate-600 rounded-lg text-white focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all appearance-none cursor-pointer min-w-[150px]"
             >
               <option value="">Todas as categorias</option>
-              <option value="adventure">⚔️ Aventura</option>
+              <option value="adventure">🚴‍♀️ Aventura</option>
               <option value="social">🎭 Social</option>
               <option value="creative">🎨 Criativa</option>
               <option value="competitive">🏆 Competitiva</option>

@@ -6,7 +6,7 @@ const categoryStyles = {
     gradient: 'from-emerald-600 to-teal-700',
     border: 'border-emerald-400/30',
     glow: 'shadow-emerald-500/20',
-    icon: '⚔️',
+    icon: '🚴‍♀️',
   },
   social: {
     gradient: 'from-purple-600 to-pink-700',

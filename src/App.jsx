@@ -35,9 +35,9 @@ const initialRoles = [
   },
   {
     id: '3',
-    title: 'Expedição ao Templo Perdido',
+    title: 'Pedal Noturno',
     description:
-      'Uma aventura épica através de ruínas antigas, cheias de armadilhas mortais e tesouros lendários. Apenas os mais corajosos sobreviverão!',
+      'Encontro na praça às 20h e pedalada leve pelas ciclovias da cidade. Rolezinho de bike com paradas estratégicas pra trocar ideia e tomar algo.',
     category: 'adventure',
     participants: 2,
     maxParticipants: 6,
@@ -49,9 +49,9 @@ const initialRoles = [
   },
   {
     id: '4',
-    title: 'Torneio de Gladiadores',
+    title: 'Torneio de Uno',
     description:
-      'Entre na arena e prove seu valor em combates épicos! Competição intensa onde apenas o mais forte será coroado campeão.',
+      'Teste sua sorte (e estratégia) com um clássico dos jogos de carta. Reúna seus amigos, dispute partidas acirradas e descubra quem é o verdadeiro mestre do +4!',
     category: 'competitive',
     participants: 8,
     maxParticipants: 16,
